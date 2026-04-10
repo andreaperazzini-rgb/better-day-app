@@ -1,50 +1,74 @@
 # Better Day
 
-Better Day is not just an app.  
-It started from a personal need.
+Know Yourself.
 
-I’m not an engineer.  
-I’m just a curious person trying to understand why some days feel better than others.
+Better Day is a simple mobile app designed to help you understand your daily energy, mood and habits through a quick daily check-in.
 
-So I started building something simple.
+---
 
-## What it does
+## 📱 App Preview
 
-Better Day is a daily check-in system:
+### Home
+![Home](./home.jpg)
 
-- Choose your focus (energy, calm, sleep, mood)
-- Do a quick check-in
-- Get a score and simple guidance
+### Daily Check-in
+![Check-in](./checkin.jpg)
 
-The goal is not tracking.
+---
 
-The goal is to understand what matters today.
+## 🧠 Why I built this
 
-## Why I’m building this
+I wanted something simple.
 
-I realized patterns exist, but we don’t see them.
+Not another productivity app.  
+Not another habit tracker.
 
-This app helps:
+Just a way to quickly understand how I feel every day — and see patterns over time.
 
-- People who feel stuck
-- People who want to improve habits
-- People who want more energy and clarity
-- Or just anyone trying to have a slightly better day
+So I built Better Day.
 
-## Philosophy
+---
 
-The app adapts to the person.
+## ⚙️ What it does
 
-Simple.  
-Fast.  
-No friction.
+- Quick daily check-in (morning / evening)
+- Track sleep, energy, mood and mental clarity
+- Simple scoring system (1–5)
+- Emotional tagging (how you feel)
+- Trends and weekly overview
 
-## Status
+---
 
-🚧 In progress (built with Expo & AI tools)
+## 🎯 Goal
 
-## Vision
+The goal is not to optimize everything.
 
-Not something complex.
+The goal is awareness.
 
-Something people actually use every day.
+Because awareness → better decisions.
+
+---
+
+## 🚀 Tech
+
+- React Native (Expo)
+- Simple local state (no backend yet)
+- Focus on UX and simplicity
+
+---
+
+## 📌 Status
+
+Work in progress.
+
+Next steps:
+- Insights based on patterns
+- Smarter feedback system
+- Data persistence
+
+---
+
+## 👋
+
+Built by Andrea.  
+First version of a personal project focused on awareness and daily self-tracking.
